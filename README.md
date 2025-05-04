@@ -20,6 +20,10 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
+![image](https://github.com/user-attachments/assets/e35f2da3-4098-473d-86e9-35d4e72dc199)
+
+![image](https://github.com/user-attachments/assets/ee9beda2-0dff-472c-9225-2eae197238a9)
+
 
 
  
